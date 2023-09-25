@@ -1,0 +1,14 @@
+Getting Started With HTML Assignment 
+
+Question 2
+Ans:  HTML comments are used for our understanding of what the lines of code will do, so that it will be convenient
+
+Question 4
+Ans:  Tags-->HTML tags are keywords how the browser will format and render in the webpage, With the help of tags, a web browser can distinguish between an HTML content and a simple content.There are opening tags, closing tags and unclosed tags.
+HTML Element is defined by starting tag content and closing tag, Elements can contain text, other elements or both.
+
+
+Question 5
+Ans: Doctype in HTML says what type of Document it is rendered in the browser.eg. if DOCTYPE is HTML, means the document is of the type HTML which is been rendered in browser
+
+
